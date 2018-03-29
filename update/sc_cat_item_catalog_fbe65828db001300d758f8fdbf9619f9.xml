@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="SN Access">61c6d8e4db001300d758f8fdbf96194e</sc_cat_item>
+        <sc_catalog display_value="Hertz">1a8458e4db001300d758f8fdbf961979</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-30 13:22:10</sys_created_on>
+        <sys_id>fbe65828db001300d758f8fdbf9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hertz.SN Access</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fbe65828db001300d758f8fdbf9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-30 13:22:10</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
